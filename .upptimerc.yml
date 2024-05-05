@@ -3,7 +3,7 @@ owner: munezerobagira
 repo: upptime 
 
 sites:
-  - name: local
+  - name: Keyboard
     url: sostene.ini.rw/keyboard
 status-website:
   baseUrl: /munezerobagira
