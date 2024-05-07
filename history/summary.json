@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "keyboard",
     "status": "down",
-    "uptime": "65.35%",
-    "uptimeDay": "65.35%",
-    "uptimeWeek": "65.35%",
-    "uptimeMonth": "65.35%",
-    "uptimeYear": "65.35%",
+    "uptime": "25.75%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "25.75%",
+    "uptimeMonth": "25.75%",
+    "uptimeYear": "25.75%",
     "time": 8290,
-    "timeDay": 8290,
+    "timeDay": 0,
     "timeWeek": 8290,
     "timeMonth": 8290,
     "timeYear": 8290,
     "dailyMinutesDown": {
-      "2024-05-06": 35,
+      "2024-05-07": 34,
+      "2024-05-06": 1440,
       "2024-05-05": 290
     }
   }
