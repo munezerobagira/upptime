@@ -6,7 +6,6 @@ sites:
   - name: Keyboard
     url: sostene.ini.rw/keyboard
 status-website:
-  baseUrl: /munezerobagira
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: Upptime website for home server for  hobby projects.
